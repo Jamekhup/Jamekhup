@@ -113,15 +113,15 @@
 <!-- GITHUB STATS: Show dynamic GitHub stats like contributions and languages -->
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&locale=en" alt="your-github-username" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamekhup&show_icons=true&theme=dark&locale=en" alt="jamekhup" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="your-github-username" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamekhup&theme=dark" alt="jamekhup" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=dark" alt="your-github-username" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamekhup&show_icons=true&locale=en&layout=compact&theme=dark" alt="jamekhup" />
 </p>
 
 ---
@@ -129,17 +129,7 @@
 <!-- TROPHIES: Showcase GitHub achievements -->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark" alt="your-github-username" />
-</p>
-
----
-
-<!-- Support section (optional) -->
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamekhup&theme=onedark" alt="jamekhup" />
 </p>
 
 
