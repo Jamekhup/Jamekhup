@@ -1,14 +1,14 @@
 <!-- HEADER: Welcome message and short intro -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate full-stack developer from [Your Country/Location]</h3>
+<h1 align="center">Hi 👋, My name is Jame Khup</h1>
+<h3 align="center">A passionate full-stack developer from Myanmar.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=jamekhup&label=Profile%20views&color=0e75b6&style=flat" alt="jamekhup" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="your-github-username" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jamekhup" alt="jamekhup" />
   </a>
 </p>
 
