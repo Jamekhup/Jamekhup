@@ -60,6 +60,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a>
+
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/> 
+  </a>
+  
    <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="40" height="30"/> 
   </a>
