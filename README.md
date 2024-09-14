@@ -81,7 +81,7 @@
   </a>
 
   <a href="https://www.mysql.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="60" height="60"/> 
   </a>
 
   <a href="https://www.laravel.com" target="_blank"> 
