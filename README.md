@@ -91,6 +91,20 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> 
   </a>
+
+   <a href="https://wordpress.com/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DIlYvtaJulsJZag0JnuNVddwTFSonHeeQQ&s" alt="wordpress" width="40" height="40"/> 
+  </a>
+
+   <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/> 
+  </a>
+
+   <a href="https://www.github.com/" target="_blank"> 
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/> 
+  </a>
+
+  
   <!-- Add more icons for your skills here -->
 </p>
 
