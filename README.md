@@ -30,7 +30,7 @@
     <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="your-linkedin-profile" height="30" width="40" />
   </a>
   <a href="https://wa.me/+959956294438" target="blank">
-    <img align="center" src="https://web.whatsapp.com/favicon-64x64.ico" alt="your-twitter-handle" height="30" width="40" />
+    <img align="center" src="https://web.whatsapp.com/favicon-64x64.ico" alt="your-twitter-handle" height="30" width="30" />
   </a>
 </p>
 
