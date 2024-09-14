@@ -84,8 +84,8 @@
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="60" height="40"/> 
   </a>
 
-  <a href="https://www.laravel.com" target="_blank"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank"> 
