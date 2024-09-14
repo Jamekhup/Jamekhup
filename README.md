@@ -80,6 +80,14 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
   </a>
 
+  <a href="https://www.mysql.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.laravel.com" target="_blank"> 
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
