@@ -93,7 +93,7 @@
   </a>
 
    <a href="https://wordpress.com/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DIlYvtaJulsJZag0JnuNVddwTFSonHeeQQ&s" alt="wordpress" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress" width="40" height="40"/> 
   </a>
 
    <a href="https://git-scm.com/" target="_blank"> 
