@@ -55,7 +55,7 @@
     <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="80" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA)" alt="express" width="80" height="40"/> 
+    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="80" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
