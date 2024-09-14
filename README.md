@@ -15,17 +15,11 @@
 ---
 
 <!-- ABOUT ME Section -->
-- 🔭 I’m currently working on **[Your Latest Project]**
+- 🔭 I’m currently working on **[The Shwe Network Project]**
 
-- 🌱 I’m currently learning **[New Technologies or Languages]**
+- 👯 I’m looking to collaborate on **[Javascript, React, Node JS]**
 
-- 👯 I’m looking to collaborate on **[Project Types or Technologies]**
-
-- 💬 Ask me about **[Your Expertise, e.g., React, Node.js, TypeScript]**
-
-- 📫 How to reach me: **[your.email@example.com]**
-
-- ⚡ Fun fact: **[Something interesting about yourself]**
+- 📫 How to reach me: **[neikhup.mm@gmail.com]**
 
 ---
 
