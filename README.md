@@ -101,7 +101,7 @@
   </a>
 
    <a href="https://www.github.com/" target="_blank"> 
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="40" height="40"/> 
   </a>
 
   
