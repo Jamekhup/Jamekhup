@@ -26,8 +26,8 @@
 <!-- CONNECT WITH ME: Add buttons for social links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="your-linkedin-profile" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jame-khup/" target="blank">
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="your-linkedin-profile" height="30" width="40" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="your-twitter-handle" height="30" width="40" />
