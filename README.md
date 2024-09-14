@@ -66,11 +66,17 @@
    <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="42" height="40"/> 
   </a>
+  
+  <a href="https://www.php.net" target="_blank"> 
+    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="60" height="40"/> 
+  </a>
+
+  <a href="https://www.laravel.com" target="_blank"> 
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="p" width="60" height="40"/> 
   </a>
   <!-- Add more icons for your skills here -->
 </p>
