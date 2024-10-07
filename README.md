@@ -15,7 +15,6 @@
 ---
 
 <!-- ABOUT ME Section -->
-- 🔭 I’m currently working on **[The Shwe Network Project]**
 
 - 👯 I’m looking to collaborate on **[Javascript, React, Node JS]**
 
