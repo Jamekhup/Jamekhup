@@ -46,6 +46,9 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://img-c.udemycdn.com/course/480x270/3873464_403c_3.jpg" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="80" height="40"/> 
   </a>
@@ -88,7 +91,7 @@
   </a>
 
    <a href="https://wordpress.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress" width="40" height="40"/> 
+    <img src="https://static.vecteezy.com/system/resources/previews/020/336/056/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" alt="wordpress" width="40" height="40"/> 
   </a>
 
    <a href="https://git-scm.com/" target="_blank"> 
