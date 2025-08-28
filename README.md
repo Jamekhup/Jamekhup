@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, My name is Jame Khup</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jamekhup" alt="jamekhup" />
-  </a>
-</p>
-
 ---
 
 <!-- ABOUT ME Section -->
