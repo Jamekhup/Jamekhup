@@ -101,15 +101,6 @@
 </p>
 
 ---
-
-<!-- GITHUB STATS: Show dynamic GitHub stats like contributions and languages -->
-<h3 align="left">GitHub Stats:</h3>
-
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamekhup&theme=dark" alt="jamekhup" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamekhup&show_icons=true&locale=en&layout=compact&theme=dark" alt="jamekhup" />
 </p>
