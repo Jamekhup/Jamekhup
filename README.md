@@ -52,7 +52,7 @@ I’m a **full-stack software engineer** with strong experience in building **pr
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/>
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="120"/>
 </p>
 
 ### Backend & APIs
@@ -61,7 +61,7 @@ I’m a **full-stack software engineer** with strong experience in building **pr
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="40"/>
   <img src="https://www.php.net/images/logos/new-php-logo.svg" width="60"/>
   <img src="https://laravel.com/img/logomark.min.svg" width="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="80"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="120"/>
 </p>
 
 ### Databases
@@ -71,32 +71,6 @@ I’m a **full-stack software engineer** with strong experience in building **pr
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40"/>
 </p>
 
-### AI & Tools
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Anthropic_logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/020/336/056/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamekhup&layout=compact&theme=dark" />
-</p>
-
----
-
-## 💡 Engineering Philosophy
-
-- Build **simple systems first**
-- Ship early, learn from **real users**
-- Improve based on **data and feedback**
-- Prefer **clarity over complexity**
-- Design for **scalability, security, and maintainability**
 
 ---
 
